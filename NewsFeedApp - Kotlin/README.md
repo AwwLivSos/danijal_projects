@@ -42,7 +42,7 @@ A modern Android news feed application built with Kotlin and Jetpack Compose, fe
 
 ## 📊 Preview
 
-![Home page preview](images/screenshot.jpg)  
+![Home page preview](images/screenshot.png)  
 
 ## 🚀 Getting Started
 
