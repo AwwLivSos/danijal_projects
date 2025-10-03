@@ -49,27 +49,27 @@ image_paths = glob.glob('/content/drive/MyDrive/DPS MRI slike/meningioma/*.jpg')
 
 ### 1. Anisotropic Filtering
 Smooths the image while preserving edges for better tumor extraction.  
-![Anisotropic Filtering](screenshot1.png)
+![Anisotropic Filtering](images/screenshot1.png)
 
 ### 2. Otsu Thresholding
 Automatic global thresholding using histogram analysis.  
-![Otsu Thresholding](screenshot2.png)
+![Otsu Thresholding](images/screenshot2.png)
 
 ### 3. Adaptive Thresholding
 Local thresholding that adjusts to regional variations.  
-![Adaptive Thresholding](screenshot3.png)
+![Adaptive Thresholding](images/screenshot3.png)
 
 ### 4. K-means Clustering
 Unsupervised clustering of pixel intensities for segmentation.  
-![K-means Clustering](screenshot4.png)
+![K-means Clustering](images/screenshot4.png)
 
 ### 5. Watershed Segmentation
 Uses distance transform and markers to segment tumor regions.  
-![Watershed Segmentation](screenshot5.png)
+![Watershed Segmentation](images/screenshot5.png)
 
 ### 6. Region Growing
 Segments the tumor starting from a seed point based on intensity similarity.  
-![Region Growing](screenshot6.png)
+![Region Growing](images/screenshot6.png)
 
 ---
 
