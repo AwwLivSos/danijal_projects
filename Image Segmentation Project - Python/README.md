@@ -100,8 +100,6 @@ pip install opencv-python numpy matplotlib scikit-image scikit-learn pillow
 ## ✨ Author
 
 **Danijal Alibegović**  
-Email: your.email@example.com  
-Portfolio: [Your Portfolio Link](https://yourportfolio.com)
 
 ---
 
