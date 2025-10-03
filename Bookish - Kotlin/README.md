@@ -33,7 +33,7 @@ Bookish is a modern Android application built with Kotlin and Jetpack Compose th
 
 ## 📊 Preview
 
-![Home page preview](images/screenshot.png)  
+![Home page preview](images/screenshot.jpg)  
 
 ## 🚀 Getting Started
 
