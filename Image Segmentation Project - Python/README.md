@@ -18,9 +18,6 @@ This project demonstrates various **Digital Signal Processing (DSP)** techniques
 - **Overlay segmentation results** on original images for visualization.
 - Compare all methods side by side for analysis.
 
-## 📊 Preview
-![Home page preview](images/screenshot.png)  
-
 ---
 
 ## 🖥️ How to Run
@@ -52,34 +49,34 @@ image_paths = glob.glob('/content/drive/MyDrive/DPS MRI slike/meningioma/*.jpg')
 
 ### 1. Anisotropic Filtering
 Smooths the image while preserving edges for better tumor extraction.  
-![screenshot1](screenshot1.png)
+![Anisotropic Filtering](screenshot1.png)
 
 ### 2. Otsu Thresholding
 Automatic global thresholding using histogram analysis.  
-![screenshot2](screenshot2.png)
+![Otsu Thresholding](screenshot2.png)
 
 ### 3. Adaptive Thresholding
 Local thresholding that adjusts to regional variations.  
-![screenshot3](screenshot3.png)
+![Adaptive Thresholding](screenshot3.png)
 
 ### 4. K-means Clustering
 Unsupervised clustering of pixel intensities for segmentation.  
-![screenshot4](screenshot4.png)
+![K-means Clustering](screenshot4.png)
 
 ### 5. Watershed Segmentation
 Uses distance transform and markers to segment tumor regions.  
-![screenshot5](screenshot5.png)
+![Watershed Segmentation](screenshot5.png)
 
 ### 6. Region Growing
 Segments the tumor starting from a seed point based on intensity similarity.  
-![screenshot6](screenshot6.png)
+![Region Growing](screenshot6.png)
 
 ---
 
 ## 📈 Comparison
 
 All methods can be **compared side by side** using the `compare_all()` function, which visualizes the original image, preprocessed image, and segmented results from all methods.  
-![screenshot7](screenshot7.png)
+![Comparison](images/screenshot.png)  
 
 ---
 
