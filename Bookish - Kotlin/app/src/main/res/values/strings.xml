@@ -1,0 +1,5 @@
+<resources>
+    <string name="book_cover_description">Book cover</string>
+    <string name="search_title_hint">Search for a book</string>
+    <string name="search_button">Search</string>
+</resources>

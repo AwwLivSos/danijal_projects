@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ooadepazar.Controllers.MailController",
+    "Method": "SendMail",
+    "RelativePath": "Mail/Send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ooadepazar.Controllers.MailController\u002BMailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
