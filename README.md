@@ -1,2 +1,2 @@
-# danijal_projects
-A collection of personal, professional and student projects
+# Danijal's projects
+A collection of personal, professional and student projects in various languages.
