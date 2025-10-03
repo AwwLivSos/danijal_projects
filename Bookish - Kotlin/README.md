@@ -196,9 +196,11 @@ This project is part of an educational exercise.
 
 ## 👨‍💻 Author
 
-Created as part of Android development coursework at ETF (Elektrotehnički fakultet) Sarajevo.
+Created as part of Android development coursework at ETF (Elektrotehnički fakultet) Sarajevo. 
+Developed by Danijal Alibegović
 
 ---
 
 **Note**: This app is for educational purposes and demonstrates modern Android development practices using Kotlin, Jetpack Compose, Room database, and REST API integration.
+
 
