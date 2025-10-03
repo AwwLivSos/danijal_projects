@@ -92,7 +92,7 @@ ooadepazar/
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/AwwLivSos/danijal_projects
    cd ePazar-C#-HTML-CSS
    ```
 
@@ -217,23 +217,12 @@ ENTRYPOINT ["dotnet", "ooadepazar.dll"]
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- ASP.NET Core team for the excellent framework
-- Bootstrap team for the responsive design framework
-- Entity Framework team for the ORM solution
-
-## 📞 Support
-
-For support, email your-email@example.com or create an issue in the repository.
+- [Bakir Činjarević](bcinjarevi1@etf.unsa.ba) - Team lead
+- [Enis Adilović](eadilovic1@etf.unsa.ba) - Database 
+- [Amar Handanagić](ahandanagi1@etf.unsa.ba) - Optimization
+- Danijal Alibegović - Frontend
 
 ---
 
