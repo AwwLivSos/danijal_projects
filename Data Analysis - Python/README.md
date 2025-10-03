@@ -90,6 +90,4 @@ Some examples of the visualizations generated in these projects:
 * Color themes applied using `mplcatppuccin`.
 
 ## ✨ Author
-Danijal Alibegović
-
-
+Danijal Alibegović. Developed as part of coursework for "Probability and statistics" in a group assingment. Only my part is shown.

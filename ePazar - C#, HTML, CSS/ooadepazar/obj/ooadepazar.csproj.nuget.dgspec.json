@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alibegovici\\Desktop\\Grupa1-Tim1\\ePazar\\ooadepazar\\ooadepazar.csproj": {}
+    "C:\\Users\\Alibegovici\\Desktop\\ETF\\Gotovi projekti\\ePazar - C#, HTML, CSS\\ooadepazar\\ooadepazar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alibegovici\\Desktop\\Grupa1-Tim1\\ePazar\\ooadepazar\\ooadepazar.csproj": {
+    "C:\\Users\\Alibegovici\\Desktop\\ETF\\Gotovi projekti\\ePazar - C#, HTML, CSS\\ooadepazar\\ooadepazar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alibegovici\\Desktop\\Grupa1-Tim1\\ePazar\\ooadepazar\\ooadepazar.csproj",
+        "projectUniqueName": "C:\\Users\\Alibegovici\\Desktop\\ETF\\Gotovi projekti\\ePazar - C#, HTML, CSS\\ooadepazar\\ooadepazar.csproj",
         "projectName": "ooadepazar",
-        "projectPath": "C:\\Users\\Alibegovici\\Desktop\\Grupa1-Tim1\\ePazar\\ooadepazar\\ooadepazar.csproj",
+        "projectPath": "C:\\Users\\Alibegovici\\Desktop\\ETF\\Gotovi projekti\\ePazar - C#, HTML, CSS\\ooadepazar\\ooadepazar.csproj",
         "packagesPath": "C:\\Users\\Alibegovici\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alibegovici\\Desktop\\Grupa1-Tim1\\ePazar\\ooadepazar\\obj\\",
+        "outputPath": "C:\\Users\\Alibegovici\\Desktop\\ETF\\Gotovi projekti\\ePazar - C#, HTML, CSS\\ooadepazar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

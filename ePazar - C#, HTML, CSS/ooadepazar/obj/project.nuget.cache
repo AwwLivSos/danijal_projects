@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIC/gzSUCXs=",
+  "dgSpecHash": "nsN4tAG5XPs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alibegovici\\Desktop\\Grupa1-Tim1\\ePazar\\ooadepazar\\ooadepazar.csproj",
+  "projectFilePath": "C:\\Users\\Alibegovici\\Desktop\\ETF\\Gotovi projekti\\ePazar - C#, HTML, CSS\\ooadepazar\\ooadepazar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alibegovici\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Alibegovici\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -230,15 +230,5 @@
     "C:\\Users\\Alibegovici\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Alibegovici\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
-      "projectPath": "C:\\Users\\Alibegovici\\Desktop\\Grupa1-Tim1\\ePazar\\ooadepazar\\ooadepazar.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\Alibegovici\\Desktop\\Grupa1-Tim1\\ePazar\\ooadepazar\\ooadepazar.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

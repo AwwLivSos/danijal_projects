@@ -31,6 +31,10 @@ Bookish is a modern Android application built with Kotlin and Jetpack Compose th
 - Kotlin 1.9+
 - JDK 11+
 
+## 📊 Preview
+
+![Home page preview](images/screenshot.png)  
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -401,12 +405,10 @@ This project is part of an educational exercise.
 
 ## 👨‍💻 Author
 
-Created as part of Android development coursework at ETF (Elektrotehnički fakultet) Sarajevo. 
+Created as part of Android development coursework at ETF (Elektrotehnički fakultet) Sarajevo for the course "Mobile app development". 
 Developed by Danijal Alibegović
 
 ---
 
 **Note**: This app is for educational purposes and demonstrates modern Android development practices using Kotlin, Jetpack Compose, Room database, and REST API integration.
 
-
->>>>>>> fda4ece71e0ef873ea5c6293b449735d22c6e53c
