@@ -38,12 +38,10 @@ This repository showcases a collection of my Python projects, where I explore da
 Some examples of the visualizations generated in these projects:  
 
 - **EV Charging:**  
-  - ![Bar chart of energy consumption by platform](images/ev_platform_bar.png)  
-  - ![Histogram of charge time](images/ev_charge_hist.png)  
+  - ![Histogram of spendings](images/spendings.png)  
 
 - **Football Stats:**  
-  - ![Boxplots of player metrics](images/football_boxplots.png)  
-  - ![Correlation heatmap of numerical features](images/football_corr_heatmap.png)  
+  - ![Correlation matrix](images/footballmatrix.png) 
 
 > ⚠️ *Note:* For full interactive visualizations, run the notebooks in Google Colab.
 
