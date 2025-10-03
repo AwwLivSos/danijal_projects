@@ -192,7 +192,7 @@ Run tests using:
 
 ## 📄 License
 
-This project is part of an educational exercise and is available under the [MIT License](LICENSE).
+This project is part of an educational exercise.
 
 ## 👨‍💻 Author
 
@@ -201,3 +201,4 @@ Created as part of Android development coursework at ETF (Elektrotehnički fakul
 ---
 
 **Note**: This app is for educational purposes and demonstrates modern Android development practices using Kotlin, Jetpack Compose, Room database, and REST API integration.
+
